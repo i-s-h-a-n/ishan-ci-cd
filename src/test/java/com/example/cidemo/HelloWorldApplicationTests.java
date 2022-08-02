@@ -14,7 +14,7 @@ class HelloWorldApplicationTests {
 
 	@Test
 	void expectFailure_noPipelineBuild(){
-		assertEquals(3,1+1);
+		assertEquals(3,1+2);
 	}
 
 }
